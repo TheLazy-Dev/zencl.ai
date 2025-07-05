@@ -1,4 +1,4 @@
-# 🌿 Zenclai
+# 🌿 Zenclai (Coming soon)
 
 [![Build](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square)](https://github.com/denishgoklani/zenclai/actions)
 [![License](https://img.shields.io/github/license/denishgoklani/zenclai?style=flat-square)](LICENSE)
